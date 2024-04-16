@@ -1,5 +1,5 @@
 # RTA-Former
-**Reverse Transformer Attention for Polyp Segmentation**
+**This is the official code repo of "RTA-Former: Reverse Transformer Attention for Polyp Segmentation"**
 
 ## Official Repository
 The official code for RTA-Former will be released following the acceptance of our paper.
