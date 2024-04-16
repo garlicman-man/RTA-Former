@@ -6,9 +6,9 @@ The official code for RTA-Former will be released following the acceptance of ou
 
 https://arxiv.org/abs/2401.11671#:~:text=The%20strong%20capability%20of%20RTA,clinical%20decisions%20and%20patient%20outcomes.
 
-![Whole Structure](https://github.com/garlicman-man/RTA-Former/edit/main/imgs/whole_v16_0415.png)
+![Whole Structure](imgs/whole_v16_0415.png)
 
-![Reverse Transformer Attention](https://github.com/garlicman-man/RTA-Former/edit/main/imgs/rta_0415.png)
+![Reverse Transformer Attention](imgs/rta_0415.png)
 
 
 ## Updates
