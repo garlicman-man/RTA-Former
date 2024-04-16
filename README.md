@@ -4,6 +4,11 @@
 ## Official Repository
 The official code for RTA-Former will be released following the acceptance of our paper.
 
+https://arxiv.org/abs/2401.11671#:~:text=The%20strong%20capability%20of%20RTA,clinical%20decisions%20and%20patient%20outcomes.
+
+![RTA-Former Segmentation Example](https://github.com/garlicman-man/RTA-Former/edit/main/rta_0411.png)
+
+
 ## Updates
 - **January 5, 2023**: The official code repository is announced; code release pending paper acceptance.
 - **April 15, 2024**: Our paper has been accepted by EMBC 2024.
