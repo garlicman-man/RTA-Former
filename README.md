@@ -6,7 +6,7 @@
 - **April 15, 2024**: The segmentation mask has been uploaded. You can download it freely from: "RTA-Former_b5_outputs.zip".
 - **January 5, 2023**: The official code repository is announced; code release pending paper acceptance.
 
-https://arxiv.org/abs/2401.11671#:~:text=The%20strong%20capability%20of%20RTA,clinical%20decisions%20and%20patient%20outcomes.
+arxiv link: https://arxiv.org/abs/2401.11671.
 
 ![Whole Structure](imgs/whole_v16_0415.png)
 
