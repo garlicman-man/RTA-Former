@@ -8,7 +8,7 @@
 
 arxiv link: https://arxiv.org/abs/2401.11671.
 
-![Whole Structure](imgs/whole_v16_0415.png)
+![Whole Structure](imgs/whole_v16(2).png)
 
 ![Reverse Transformer Attention](imgs/rta_0415.png)
 
